@@ -5,6 +5,6 @@ const divide = function(){
 }
 
 const square = () => {
-
+   return number * number
 
 }
