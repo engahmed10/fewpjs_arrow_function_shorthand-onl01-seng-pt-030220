@@ -1,4 +1,4 @@
-const divide =(){
+const divide =function(){
 
 
 
