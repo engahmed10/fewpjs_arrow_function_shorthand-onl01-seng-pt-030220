@@ -10,3 +10,9 @@ const square = () => {
    return number * number
 
 }
+
+const add =()=>{
+
+let add=3
+  return add +add
+}
