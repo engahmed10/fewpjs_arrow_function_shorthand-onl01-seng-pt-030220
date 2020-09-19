@@ -16,3 +16,10 @@ const add =()=>{
 let add=3
   return add +add
 }
+
+
+const add =(a,b)=>{
+
+return a+b
+
+}
